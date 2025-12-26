@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビリヤニ",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-26T05:05:59.137294Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビリヤニ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_ビリヤニ_乃木坂46.txt"
+    }
+  ]
+}
